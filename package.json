@@ -1,0 +1,48 @@
+{
+  "name": "zeroise",
+  "version": "0.1.0",
+  "description": "Add leading zeros to fill a certain number to the given size.",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyxla/zeroise"
+  },
+  "keywords": [
+    "number",
+    "string",
+    "zeropad",
+    "leading",
+    "lead",
+    "size",
+    "integer",
+    "zero pad",
+    "0",
+    "pad",
+    "zerofill",
+    "fill",
+    "zero fill",
+    "zero"
+  ],
+  "author": {
+    "name": "Marin Atanasov",
+    "email": "contact@marinatanasov.com",
+    "url": "http://marinatanasov.com"
+  },
+  "contributors": [
+    "tyxla"
+  ],
+  "bugs": {
+    "url": "https://github.com/tyxla/zeroise/issues"
+  },
+  "homepage": "https://github.com/tyxla/zeroise",
+  "license": "MIT"
+}
